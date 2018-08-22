@@ -1,0 +1,8 @@
+Django==2.1
+gunicorn==19.9.0
+djangorestframework==3.8.2
+
+django-elasticsearch-dsl-drf==0.15
+
+ipython==6.5.0
+requests==2.19.1
