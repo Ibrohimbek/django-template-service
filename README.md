@@ -1,7 +1,7 @@
-# Loadboard Backend service
+# Backend service
 
-The service stores and supplies search engine for loads those sent by main TMS. 
-It keeps business logic related to load boards
+The service stores and supplies search engine for loads. 
+It keeps business logic related to loadboards
 Sends requests to Elasticsearch server to get store and get data. 
 Written in Django.
 
@@ -24,7 +24,7 @@ The project folders description:
 
 ## Getting Started
 
-As it is a microservice, it works in combination with [the main backend](https://bitbucket.org).
+As it is a microservice.
 
 
 
